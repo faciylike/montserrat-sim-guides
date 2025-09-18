@@ -63,3 +63,10 @@ layout: default
 　　**实名制**：2025年依然严格执行！买卡必须出示护照原件，登记姓名、国籍、护照号。复印件或照片？店员大概率摇头——别存侥幸心理。
 
 　　**签证关联小贴士**：持英国签证/
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Montserrat eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/montserrat-data-plans)
